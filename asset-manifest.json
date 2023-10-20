@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calendare_app/static/css/main.50983ee2.css",
+    "main.js": "/Calendare_app/static/js/main.c0d1f12b.js",
+    "index.html": "/Calendare_app/index.html",
+    "main.50983ee2.css.map": "/Calendare_app/static/css/main.50983ee2.css.map",
+    "main.c0d1f12b.js.map": "/Calendare_app/static/js/main.c0d1f12b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50983ee2.css",
+    "static/js/main.c0d1f12b.js"
+  ]
+}
